@@ -10,7 +10,7 @@ The instructor during the session was Nandini Jalan (Ex- Intern at Google).
 <br>
 During these 7 days, and everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
-I enjoyed these 7 days, you can as well. To register for next bootcamp, visit:
+<!-- I enjoyed these 7 days, you can as well. To register for next bootcamp, visit:
 <a href="https://www.shapeai.tech"> www.shapeai.tech</a>
 or follow SHAPEAI on:
 <li><a href=
@@ -20,4 +20,4 @@ or follow SHAPEAI on:
 <li><a
 href=
 "https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
-be</a>
+be</a> -->
